@@ -1,4 +1,4 @@
-In this file what are the package we have to installed on centos 7 to installed Remmina RDP
+In this file what are the packages have to installed on centos 7 to installed Remmina RDP
 
 # sudo rpm --import http://li.nux.ro/download/nux/RPM-GPG-KEY-nux.ro
 # rpm -Uvh http://li.nux.ro/download/nux/dextop/el7/x86_64/nux-dextop-release-0-1.el7.nux.noarch.rpm
@@ -11,6 +11,7 @@ In this file what are the package we have to installed on centos 7 to installed 
 ## other plugin 
 
 # rpm -Uvh http://li.nux.ro/download/nux/dextop/el7/x86_64/nux-dextop-release-0-1.el7.nux.noarch.rpm
+# rpm -Uvh http://li.nux.ro/download/nux/dextop/el7/x86_64/remmina-plugins-vnc-1.0.0-8.el7.nux.x86_64.rpm
 # rpm -Uvh https://centos.pkgs.org/7/nux-dextop-x86_64/remmina-plugins-gnome-1.0.0-8.el7.nux.x86_64.rpm
 # rpm -Uvh http://li.nux.ro/download/nux/dextop/el7/x86_64/remmina-plugins-rdp-1.0.0-8.el7.nux.x86_64.rpm
 # rpm -Uvh http://li.nux.ro/download/nux/dextop/el7/x86_64/remmina-plugins-gnome-1.0.0-8.el7.nux.x86_64.rpm
